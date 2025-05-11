@@ -14,6 +14,10 @@ A lightweight and easy-to-use SwiftUI project that demonstrates how to handle **
 - 🔄 Observable `ViewModel` updates UI reactively
 - 📦 Easily extendable for other HTTP methods or complex APIs
 
+###### Sample project output
+
+<img src="https://github.com/PayalUmraliya/HorizontalTimesLayout/blob/master/pucalender.gif" width="320" height="564"/>
+
 ## License
 
 The MIT License (MIT)
