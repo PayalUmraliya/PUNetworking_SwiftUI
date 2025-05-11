@@ -1,7 +1,7 @@
 # 📡 SwiftUI MVVM API Handler (GET & POST) with Combine
 
-[![License](https://img.shields.io/cocoapods/l/PUGifLoading.svg?style=flat)](https://github.com/PayalUmraliya/PUCoverflowCarousel/blob/Master/LICENSE)
-[![Platform](https://img.shields.io/cocoapods/p/PUGifLoading.svg?style=flat)](https://github.com/PayalUmraliya/PUCoverflowCarousel/blob/Master/LICENSE)
+[![License](https://img.shields.io/cocoapods/l/PUGifLoading.svg?style=flat)](https://github.com/PayalUmraliya/PUNetworking_SwiftUI/blob/Master/LICENSE)
+[![Platform](https://img.shields.io/cocoapods/p/PUGifLoading.svg?style=flat)](https://github.com/PayalUmraliya/PUNetworking_SwiftUI/blob/Master/LICENSE)
 
 
 A lightweight and easy-to-use SwiftUI project that demonstrates how to handle **GET** and **POST** API requests using **Combine**, organized with the **MVVM architecture** for better separation of concerns and reusability.
