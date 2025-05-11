@@ -16,7 +16,7 @@ A lightweight and easy-to-use SwiftUI project that demonstrates how to handle **
 
 ###### Sample project output
 
-<img src="https://github.com/PayalUmraliya/HorizontalTimesLayout/blob/master/pucalender.gif" width="320" height="564"/>
+<img src="https://github.com/PayalUmraliya/PUNetworking_SwiftUI/blob/Master/otuputimgpm.jpg"/>
 
 ## License
 
