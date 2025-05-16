@@ -28,6 +28,6 @@ Copyright (c) 2025 TheKarma
 
 Payal Umraliya [behappy78600@gmail.com] 
 
-[LinkedIn](www.linkedin.com/in/payalmakwana2127)
+[LinkedIn](https://www.linkedin.com/in/payalmakwana2127)
 
 ツツツツツツ
